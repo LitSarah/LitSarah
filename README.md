@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarah Little</h1>
 <h3 align="center">QA engineer</h3>
 
+<img src="https://img.shields.io/badge/pronouns-she%2Fher-informational" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/litsarah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="litsarah" height="30" width="40" /></a>
